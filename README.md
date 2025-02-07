@@ -26,6 +26,7 @@ This is the backend of YouTube Clone built with node, express, mongodb, middlewa
 7. npm i cookie-parser
 8. npm i cors
 9. npm i nodemon --> add "start": "nodemon index.js" inside script
-10. npm nodemon --> to run backend
+10. npm i mongodb
+11. npm nodemon --> to run backend
 
 # Use your mongodb address for Connenction
